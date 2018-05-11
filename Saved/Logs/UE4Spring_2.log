@@ -435,3 +435,30 @@ LogInit: Object subsystem initialized
 [2018.05.11-20.15.17:461][204]SourceControl:  create mode 100644 Content/Untitled_BuiltData.uasset
 [2018.05.11-20.15.17:472][204]SourceControl: Commited [master d6ad751] lfdksajflasd.
 [2018.05.11-20.16.48:109][366]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.11-20.17.04:854][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.11-20.17.07:111][874]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.11-20.17.07:685][929]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.11-20.17.08:225][986]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.11-20.17.35:940][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.11-20.17.36:093][653]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.11-20.17.36:124][653]LogAIModule: Creating AISystem for world Untitled
+[2018.05.11-20.17.36:144][653]Cmd: MAP LOAD FILE="../../../../../../Users/Morbidcaine/Documents/GitHub/UE4Spring/Content/Untitled.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.11-20.17.36:144][653]LightingResults: New page: Lighting Build
+[2018.05.11-20.17.36:145][653]LoadErrors: New page: Loading map: Untitled.umap
+[2018.05.11-20.17.36:146][653]MapCheck: New page: Map Check
+[2018.05.11-20.17.36:146][653]LightingResults: New page: Lighting Build
+[2018.05.11-20.17.36:205][653]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.11-20.17.36:222][653]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.11-20.17.36:267][653]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.458ms to complete.
+[2018.05.11-20.17.36:268][653]LogFileHelpers: Loading map 'Untitled' took 0.126
+[2018.05.11-20.17.37:594][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.11-20.17.37:763][815]LogAIModule: Creating AISystem for world Test_level
+[2018.05.11-20.17.37:782][815]Cmd: MAP LOAD FILE="../../../../../../Users/Morbidcaine/Documents/GitHub/UE4Spring/Content/Test_level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.11-20.17.37:782][815]LightingResults: New page: Lighting Build
+[2018.05.11-20.17.37:783][815]LoadErrors: New page: Loading map: Test_level.umap
+[2018.05.11-20.17.37:783][815]MapCheck: New page: Map Check
+[2018.05.11-20.17.37:783][815]LightingResults: New page: Lighting Build
+[2018.05.11-20.17.37:860][815]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.11-20.17.37:880][815]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.11-20.17.37:926][815]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.723ms to complete.
+[2018.05.11-20.17.37:927][815]LogFileHelpers: Loading map 'Test_level' took 0.145
